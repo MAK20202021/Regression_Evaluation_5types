@@ -1,21 +1,14 @@
 # Regression_Evaluation_5types
 
-This exercise is a good sourse of better understanding on content-based and collaborative filtering based recommender systems. At the beginning, I provides the recommendations of the courses based on user profile and course similarity matrix and then user profile clustering. At last, different collaborative filtering models such as KNN, NMF, SVD, NN with embeddings have been developed and evaluated through Root Mean Square Error (RMSE). 
-The main objective of the analysis is to focus on the recommender systems to build a better machine learning model to provide the personalized recommendations of the online courses. 
-
+This exercise is a combination of different types of Regression models. Dataset is related to the energy output where the features are the ambient temperature, exhaust vacuum, ambient pressure, relative humidity. 
+The main objective of the analysis is to focus on the evaluation of five types of regression models such as Multiple Linear Regression, Polynomial Linear Regression, Support Vector Regression (SVR), Decission Tree and Random Forest Regression model. R2-score is used as the evaluation metrics.
 ## Acknowledgement
-This project is for [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning).
-Thanks to Udemy for arranging this project to strengthen our knowledge. 
+This exercise is for [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning).
+Thanks to Udemy for arranging this exercise to strengthen our knowledge. 
 ## Installation
-This project needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4). This project template is taken from Coursera IBM Skills Network labs.
-
-## File Description
-The source codes are as follows:
-- Final_Content_based.ipynb
-
-
+This exercise needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4). 
 
 ## Discussion
-This project provides a better understanding of different recommender systems to recommend the users focasing on their profile or items those they choose or combination of both of them.
+This exercise provides a better understanding of different regression models and the process of selection of the better model.
 
 
